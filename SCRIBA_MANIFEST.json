@@ -1,0 +1,27 @@
+{
+  "scribaMarkerVersion": 1,
+  "aiGenerated": true,
+  "conversionId": "proj-gafc",
+  "sourceLanguage": "cobol",
+  "targetLanguage": "java",
+  "timestamp": "2026-06-08T10:43:19.034Z",
+  "platformVersion": "0.1.0",
+  "files": [
+    ".editorconfig",
+    "checkstyle.xml",
+    "docs/migrated/Airparams.md",
+    "docs/migrated/Airport.md",
+    "docs/migrated/Airrec.md",
+    "openapi.yaml",
+    "pom.xml",
+    "src/main/java/com/example/app/Airparams.java",
+    "src/main/java/com/example/app/Airport.java",
+    "src/main/java/com/example/app/Airrec.java",
+    "src/test/java/com/example/app/AirparamsTest.java",
+    "src/test/java/com/example/app/AirportTest.java",
+    "src/test/java/com/example/app/AirrecTest.java",
+    "src/test/java/tests/integration/AirparamsIntegrationTestIntegrationTest.java",
+    "src/test/java/tests/integration/AirportIntegrationTestIntegrationTest.java",
+    "src/test/java/tests/integration/AirrecIntegrationTestIntegrationTest.java"
+  ]
+}
