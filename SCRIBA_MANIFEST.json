@@ -1,0 +1,31 @@
+{
+  "scribaMarkerVersion": 1,
+  "aiGenerated": true,
+  "conversionId": "proj-bn31",
+  "sourceLanguage": "cobol",
+  "targetLanguage": "java",
+  "timestamp": "2026-06-08T08:15:57.004Z",
+  "platformVersion": "0.1.0",
+  "files": [
+    ".editorconfig",
+    "SETUP.md",
+    "checkstyle.xml",
+    "docs/migrated/Aircode.md",
+    "docs/migrated/Airparams.md",
+    "docs/migrated/Airport.md",
+    "docs/migrated/Airrec.md",
+    "openapi.yaml",
+    "src/main/java/com/example/app/Aircode.java",
+    "src/main/java/com/example/app/Airparams.java",
+    "src/main/java/com/example/app/Airport.java",
+    "src/main/java/com/example/app/Airrec.java",
+    "src/test/java/com/example/app/AircodeTest.java",
+    "src/test/java/com/example/app/AirparamsTest.java",
+    "src/test/java/com/example/app/AirportTest.java",
+    "src/test/java/com/example/app/AirrecTest.java",
+    "var/folders/_x/0y7vl6t115gdgrx4wllc9v880000gn/T/scriba-out-b3236a93-028f-4c27-993f-7ca9a852a453/src/main/java/com/example/app/Aircode.java",
+    "var/folders/_x/0y7vl6t115gdgrx4wllc9v880000gn/T/scriba-out-b3236a93-028f-4c27-993f-7ca9a852a453/src/main/java/com/example/app/Airparams.java",
+    "var/folders/_x/0y7vl6t115gdgrx4wllc9v880000gn/T/scriba-out-b3236a93-028f-4c27-993f-7ca9a852a453/src/main/java/com/example/app/Airport.java",
+    "var/folders/_x/0y7vl6t115gdgrx4wllc9v880000gn/T/scriba-out-b3236a93-028f-4c27-993f-7ca9a852a453/src/main/java/com/example/app/Airrec.java"
+  ]
+}

@@ -1,0 +1,13 @@
+# @scriba-ai-generated: true
+# @scriba-marker-version: 1
+# @scriba-source-language: cobol
+# @scriba-target-language: java
+# @scriba-conversion-id: proj-bn31
+# @scriba-timestamp: 2026-06-08T08:15:57.004Z
+# @scriba-platform-version: 0.1.0
+openapi: 3.0.3
+info:
+  title: Airport Microfocus 08/06 API
+  version: 1.0.0
+  description: Placeholder after migration cobol → java
+paths: {}
