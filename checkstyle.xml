@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!--
+  @scriba-ai-generated: true
+  @scriba-marker-version: 1
+  @scriba-source-language: cobol
+  @scriba-target-language: java
+  @scriba-conversion-id: proj-e473
+  @scriba-timestamp: 2026-06-08T11:34:25.158Z
+  @scriba-platform-version: 0.1.0
+-->
+<!DOCTYPE module PUBLIC "-//Checkstyle//DTD Checkstyle Configuration 1.3//EN" "https://checkstyle.org/dtds/configuration_1_3.dtd">
+<module name="Checker">
+  <property name="charset" value="UTF-8"/>
+  <module name="TreeWalker">
+    <module name="UnusedImports"/>
+    <module name="RedundantImport"/>
+    <module name="NeedBraces"/>
+    <module name="EmptyBlock"/>
+    <module name="LeftCurly"/>
+    <module name="RightCurly"/>
+  </module>
+</module>

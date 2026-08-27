@@ -1,0 +1,19 @@
+/*
+ * @scriba-ai-generated: true
+ * @scriba-marker-version: 1
+ * @scriba-source-language: cobol
+ * @scriba-target-language: java
+ * @scriba-conversion-id: proj-e473
+ * @scriba-timestamp: 2026-06-08T11:34:25.158Z
+ * @scriba-platform-version: 0.1.0
+ */
+root = true
+
+[*.{java,kt,kts,groovy,scala}]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 4
+max_line_length = 120
